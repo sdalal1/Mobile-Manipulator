@@ -32,11 +32,11 @@ Ki = 0.0001
 Tsc_initial = [1 0 0 1; 0 1 0 0; 0 0 1 0.025; 0 0 0 1]
 Tsc_final = [0 1 0 0; -1 0 0 -1; 0 0 1 0.025; 0 0 0 1]
 
-The graph for the best run:
-<image src="https://github.com/sdalal1/Mobile-Manipulator/blob/main/results/best/best.png" title="Best run Graph"> </image>
+The graph for the best run: \
+<image src="https://github.com/sdalal1/Mobile-Manipulator/assets/80363654/a33f5ce6-dc93-49ec-a309-c7fe351301cb" title="Best run Graph" />
 
 The video of the best run is below:
-<video src="https://github.com/sdalal1/Mobile-Manipulator/blob/main/results/best/best.mp4" title="Best Run" >
+<video src="https://github.com/sdalal1/Mobile-Manipulator/assets/80363654/cf5ce903-f6ba-4cc9-bb3e-2eb36420c962" title="Best Run" >
 </video>
 
 #### Overshoot
@@ -46,11 +46,11 @@ Ki = 0.5
 Tsc_initial = [1 0 0 1; 0 1 0 0; 0 0 1 0.025; 0 0 0 1]
 Tsc_final = [0 1 0 0; -1 0 0 -1; 0 0 1 0.025; 0 0 0 1]
 
-The graph for the overshooot run:
-<image src="https://github.com/sdalal1/Mobile-Manipulator/blob/main/results/overshoot/overshoot.png" title="Best run Graph"> </image>
+The graph for the overshooot run: \
+<image src="https://github.com/sdalal1/Mobile-Manipulator/assets/80363654/c7e956e0-8d50-4e89-920c-d7114be8ae52" title="Best run Graph"> </image>
 
 The video of the overshoot run is below:
-<video src="https://github.com/sdalal1/Mobile-Manipulator/blob/main/results/overshoot/overshoot.mp4" title="Best Run" >
+<video src="https://github.com/sdalal1/Mobile-Manipulator/assets/80363654/0ef0ad11-b05b-4a83-a8a2-26fe45cc48c3" title="Best Run" >
 </video>
 
 #### New Task
@@ -60,9 +60,9 @@ Ki = 0.001
 Tsc_initial = [1 0 0 1; 0 1 0 0; 0 0 1 0.025; 0 0 0 1]
 Tsc_final = [0 1 0 1; -1 0 0 -1; 0 0 1 0.025; 0 0 0 1]
 
-The graph for the new position run:
-<image src="https://github.com/sdalal1/Mobile-Manipulator/blob/main/results/new_task/New_task.png" title="Best run Graph"> </image>
+The graph for the new position run: \
+<image src="https://github.com/sdalal1/Mobile-Manipulator/assets/80363654/cb1d6c08-fc1d-4c94-959a-4cd9ce1f126c" title="Best run Graph"> </image>
 
 The video of the new position run is below:
-<video src="https://github.com/sdalal1/Mobile-Manipulator/blob/main/results/new_task/new_task.mp4" title="Best Run" >
+<video src="https://github.com/sdalal1/Mobile-Manipulator/assets/80363654/4133104b-6bd4-4bea-b17b-e68fe55b9585" title="Best Run" >
 </video>
